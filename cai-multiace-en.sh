@@ -55,7 +55,7 @@ ask() {
 # If the bundle is missing, download the verified multiACE release
 # (v1.27b) from decay71's official GitHub releases, with checksum check.
 MULTIACE_VER="1.27b"
-TARBALL="multiace-${MULTIACE_VER}.tar.gz"
+TARBALL="multiace-v${MULTIACE_VER}.tar.gz"
 DL_URL="https://github.com/decay71/multiACE/releases/download/v${MULTIACE_VER}/${TARBALL}"
 
 if [ ! -f "$BUNDLE/install_multiace.sh" ]; then
