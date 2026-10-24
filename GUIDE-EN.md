@@ -5,6 +5,11 @@ Snapmaker U1 (stock firmware 2.0.0.205) + one Anycubic ACE Pro 2 — 4-color pri
 drying, and Bambu spool tag reading all working.
 Works with both the **ACE Pro (gen 1)** and the **ACE Pro 2** — differences are called out where they matter.
 
+> ⭐ **The key point: this kit runs on Snapmaker's STOCK firmware.**
+> No custom firmware to install, and the printer's original firmware is never replaced or modified.
+> Everything added is configuration + modules that multiACE places on the stock system —
+> and uninstalling multiACE before an OTA update returns the printer to untouched stock.
+
 ### Supported setups
 
 - **One ACE straight into 4 toolheads:** the ACE's 4 filaments feed the 4 extruders (slot i → head i).

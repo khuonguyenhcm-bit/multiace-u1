@@ -4,6 +4,11 @@ Bộ cài này đóng gói lại quy trình đã được cài và kiểm chứn
 Snapmaker U1 (firmware stock 2.0.0.205) + 1 bộ Anycubic ACE Pro 2, in 4 màu, sấy, nhận tem cuộn Bambu.
 Dùng được cho cả **ACE Pro (bản 1)** và **ACE Pro 2** — chỗ nào hai bản khác nhau, hướng dẫn có ghi rõ.
 
+> ⭐ **Điểm quan trọng nhất: bộ này chạy trên firmware STOCK của Snapmaker.**
+> Không cần cài firmware tùy chỉnh, không thay thế hay "độ" firmware gốc của máy in.
+> Mọi thứ thêm vào chỉ là cấu hình + module mà multiACE đặt lên hệ thống stock —
+> và chỉ cần gỡ multiACE trước mỗi lần cập nhật OTA là máy in trở lại nguyên trạng như chưa từng cài.
+
 ### Các cấu hình multiACE hỗ trợ
 
 - **1 bộ ACE, cắm thẳng 4 đầu in:** 4 filament của ACE vào 4 extruder (slot i → đầu i).

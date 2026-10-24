@@ -1,5 +1,8 @@
 # multiACE for Snapmaker U1 — Install Kit / Bộ cài multiACE cho Snapmaker U1
 
+**⭐ Runs entirely on the printer's STOCK firmware — no custom firmware required, the original firmware is never replaced.**
+**⭐ Chạy hoàn toàn trên firmware STOCK của máy in — không cần firmware tùy chỉnh, firmware gốc không bao giờ bị thay thế.**
+
 An install kit that packages a verified multiACE setup for the **Snapmaker U1 (stock firmware)** with an **Anycubic ACE Pro / ACE Pro 2**: 4-color printing, dryer control and Bambu spool-tag reading — installed and tested stable on a real machine (U1 stock firmware 2.0.0.205 + one ACE Pro 2).
 
 Bộ cài đóng gói quy trình multiACE đã cài và kiểm chứng ổn định trên máy thật: **Snapmaker U1 (firmware stock)** + **Anycubic ACE Pro / ACE Pro 2** — in 4 màu, sấy, đọc tem cuộn Bambu (U1 firmware stock 2.0.0.205 + 1 bộ ACE Pro 2).
